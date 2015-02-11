@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "noahp78",
-    "repositoryName": "noahp78.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"noahp78","repositoryName":"noahp78.github.io","branch":"master"},"site":{"title":"Noah's Blog","description":"Talking about stuff","url":"http://noahp78.github.io"},"socialnetwork":{"email":"me@noahp78.me","twitter":"noahp78","github":"noahp78"},"theme":{"name":"Casper","url":"http://noahp78.github.io/themes/Casper"}}
